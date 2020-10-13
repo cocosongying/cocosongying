@@ -3,7 +3,7 @@
 https://mojipanda.com
 
 <img src="https://github-readme-stats.vercel.app/api?username=cocosongying&show_icons=true">
-
+<img src="https://cdn.jsdelivr.net/gh/cocosongying/cdn-assets/common/wx_p_dark.png" width="500">
 
 <!--
 **cocosongying/cocosongying** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
