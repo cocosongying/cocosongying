@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+`java` `nodejs` `mysql` `mongodb` `redis` `rabbitmq`
+`vue` `flutter`
+
 https://mojipanda.com
 
 <img src="https://github-readme-stats.vercel.app/api?username=cocosongying&show_icons=true">
